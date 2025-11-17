@@ -4,8 +4,6 @@
 
 **Course:** Introduction to Robotics
 
-**Assignment:** 5: Mobile Manipulation Project
-
 ## Project Overview
 
 This repository contains the solutions for Assignment 5, the final project for the KTH Introduction to Robotics course. The project's goal is to implement a robust, high-level mission planner for a **TIAGo robot** operating in a simulated apartment environment using **Gazebo**.
